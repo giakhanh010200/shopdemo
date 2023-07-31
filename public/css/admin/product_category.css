@@ -1,0 +1,35 @@
+div.table-view-data {
+    margin: 20px 50px;
+}
+
+table tbody tr td {
+    padding: 10px 15px !important;
+}
+
+tr.row-title-table td {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+button.btn-data {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button.btn-data p {
+    margin-left: 10px;
+}
+
+div.wget-btn-new-block {
+    padding: 0 50px;
+    margin-bottom: 20px;
+}
+
+button.btn-add-new {
+    width: 100%;
+    padding: 20px;
+    border: 2px solid var(--main-color);
+    background: #fff;
+    font-size: 20px;
+}
